@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aff17bd28093b3c4e8fdab3a84d007a3
+timeCreated: 1486067305
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MapCam: {instanceID: 0}
+  - LinearDepth: {fileID: 8400000, guid: cab8af6ec04c29d45a4f2b821e478831, type: 2}
+  - Texture: {instanceID: 0}
+  - Depth: {instanceID: 0}
+  - TempB: {instanceID: 0}
+  - DepthNormals: {instanceID: 0}
+  - BlurMat: {instanceID: 0}
+  - LinearMat: {instanceID: 0}
+  - BuildNormalsMat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
